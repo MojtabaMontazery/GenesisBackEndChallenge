@@ -16,4 +16,4 @@ The solution has four components as follows:
 The Swagger UI is shown in the root of web application in which the three requested endpoints could be tested.
 
 # Loggin
-The project is set to log any log with 'Information' level or higher in 'Console' and 'Debug' by defult. You can change the setting in 'Program.cs' and 'appsettings.js', respectively.
+The project is set to log any log with the 'Information' level or higher in 'Console' and 'Debug' by defult. You can change the setting in 'Program.cs' and 'appsettings.js', respectively.
