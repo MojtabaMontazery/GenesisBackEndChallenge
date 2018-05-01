@@ -13,7 +13,7 @@ The solution has four components as follows:
 4. BackEndChallengeTest: it is a xUnit Test Core project to do unit testing for all the aforementioned projects above. It has three folders containing the unit tests for each of the projects.
 
 # Running the application
-The Swagger UI is shown in the root of web application in which the three requested endpoints could be tested.
+The Swagger UI is shown in by browsing the root of the web application in which the three requested endpoints could be tested.
 
 # Loggin
 The project is set to log any log with the 'Information' level or higher in 'Console' and 'Debug' by defult. You can change the setting in 'Program.cs' and 'appsettings.js', respectively.
